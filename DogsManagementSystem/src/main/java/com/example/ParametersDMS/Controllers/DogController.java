@@ -22,7 +22,7 @@ public class DogController {
 	ModelAndView mv = new ModelAndView();
 	@Autowired
 	DogRepository dogRepo;
-	
+	 
 	@Autowired
 	TrainerRepository trainerRepo;
 	

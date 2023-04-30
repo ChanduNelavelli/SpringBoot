@@ -7,3 +7,4 @@ import com.example.ParametersDMS.Models.Trainer;
 public interface TrainerRepository extends CrudRepository<Trainer, Integer> {
 
 }
+ 

@@ -10,3 +10,4 @@ public interface DogRepository extends CrudRepository<Dog, Integer> {
 	List<Dog> findByName(String name);
 
 }
+ 

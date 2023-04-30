@@ -2,7 +2,7 @@ package com.example.ParametersDMS.Models;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+ 
 @Entity
 public class Trainer {
 	@Override
